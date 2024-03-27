@@ -3,8 +3,8 @@
 Text editor i am making using java and swing.
 
 ### Goals:
--[] Save properly
--[] Refactor(comparing strings for the menus is not a good idea)
+- [ ] Save properly
+- [ ] Refactor(comparing strings for the menus is not a good idea)
 
 ### Requirements:
 - Maven
